@@ -1,0 +1,902 @@
+
+
+/* #Media Queries
+================================================== */
+
+
+
+/* Smaller than standard 960 (devices and browsers) */
+@media only screen and (min-width: 960px) and (max-width: 1024px) {
+
+    
+    .map-icon i {
+    font-size: 26px;
+    height: 60px;
+    width: 60px;
+ 
+}
+      .mobile-icon i {
+    font-size: 26px;
+    height: 60px;
+    width: 60px;
+ 
+}
+    
+/*........................ABOUT US.HTML.......................*/
+#about h3 {
+    width: 100%;
+    text-align: left;
+    padding: 30px 0;
+}
+ #about .about {
+    background: #fff;
+    padding: 50px 44px 170px;
+}
+#about ps {
+    width: 100%;
+    font-size: 14px;
+    text-align: left;
+    margin: 0 auto;
+    display: block;
+}
+#about img {
+  width: 100%;
+}
+
+/*........................CONTACT US.HTML.......................*/
+#contact .contact {
+    background: #fff;
+    padding: 50px 0 80px 0;
+}
+    .map-icon{
+        text-align: center;
+        width: 100%;
+        float: none;
+    }
+    
+    .map-info {
+   float:  none; 
+    width: 100%;
+    text-align: center;
+}
+ .map-info h3 {
+    line-height: 22px;
+    font-size: 16px;
+    padding: 10px 0 0 0;
+} 
+
+    .mobile-icon {
+    float: none;
+    width: 100%;
+    text-align: center;
+}
+    
+    .mob-info {
+    float: none;
+    width: 100%;
+        text-align: center;
+    margin-top: 10px;
+}
+    .email-info {
+    float: none;
+        text-align: center;
+    width: 100%;
+}
+.contact iframe {
+    min-height: 340px;
+    padding: 20px 0;
+}
+.contact-box {
+    padding: 40px 0;
+}
+    
+/*........................AUDIO.HTML.......................*/
+
+#product p {
+   text-align: center;
+}
+
+#product span {
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+}
+    
+.visul-info {
+    padding: 0 40px;
+    text-align: center;
+}
+.visual img {
+    padding: 30px 0 30px 0;
+}
+.visul-info h3 {
+    text-align: center;
+}
+.cont-but a {
+    width: 20%;
+}
+.cont-but {
+    padding: 58px 0 100px 0;
+    text-align: center;
+} 
+
+/*........................CAMERAS.HTML.......................*/
+
+table td {
+    padding: 8px 0 8px 30px;   
+}
+}
+
+/* Tablet Portrait size to standard 960 (devices and browsers) */
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+	
+header {
+    /*height: 148px;*/
+}
+
+
+/*..RESPONSIVE-INDEX.HTML..*/
+.logo {
+    width: 20%;
+    padding: 15px 0px 0 20px;
+} 
+.logo img{  width: 100%;
+ }   
+#products h2 {
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 30px;
+    margin-bottom: 10px;
+    color: #333333;
+}
+   
+nav {
+ 
+}    
+/*.compny-logo {
+padding: 10px 0 10px 0;
+}*/
+.banner-img-text h2 {
+    font-size: 60px;
+    padding-top: 130px;
+    line-height: 60px;
+}
+.banner-img-text {
+    height: 480px;
+}
+#tools-one .tools {
+    padding: 40px 0px;
+}
+.download a {
+    padding: 8px;
+    font-size: 18px;
+}
+.download h2 {
+    font-size: 26px;
+    width: 60%;
+}
+#download .download {
+    background: #000;
+    padding: 25px 0;
+}
+ #products h2 {
+    font-size: 30px;
+}
+#products .products {
+    padding: 30px 10px 0px 10px;
+}
+.camera {
+    margin-top: 0px;
+}
+      
+ .container_12 .grid_2 {
+     margin-top: 20px;
+    width: 30% !important;
+}     
+.social {
+    padding: 30px 0;
+    text-align: right;
+}
+    #tools-one p {
+    color: #fff;
+    font-size: 12px;
+
+}
+    #tools-one i {
+    font-size: 60px;
+    padding: 20px 0 20px 0;
+}
+    #tools-one a {
+    width: 50%;
+    }
+    .cd-main-nav li a {
+    padding: 0 5px;
+    }
+    #tools-one a{margin-bottom: 20px;
+    }
+    
+    #productul li p a {
+
+    margin: 10px 0 10px 0;
+    }
+
+/*........................ABOUT US.HTML.......................*/
+
+#about h3 {
+   
+    width: 100%;
+    text-align: left;
+    padding: 30px 0;
+}
+ #about .about {
+    background: #fff;
+    padding: 50px 44px 170px;
+}
+#about p {
+    width: 100%;
+    font-size: 13px;
+    text-align: left;
+    margin: 0 auto;
+    display: block;
+}
+
+/*........................CONTACT US.HTML.......................*/
+#contact-msg .contact-msg {
+    background: #fff;
+    padding: 0 10px 80px;
+}
+    #contact .contact {
+    background: #fff;
+    padding: 50px 0 50px 0;
+}
+.map-icon{
+        text-align: center;
+        width: 100%;
+        float: none;
+    margin-top: 10px;
+}
+    
+ .map-info {
+   float:  none; 
+    width: 100%;
+    text-align: center;
+}
+ .map-info h3 {
+    line-height: 22px;
+    font-size: 16px;
+    padding: 10px 0 0 0;
+} 
+
+.mobile-icon {
+    margin-top: 10px;
+    float: none;
+    width: 100%;
+    text-align: center;
+}
+    
+ .mob-info {
+    float: none;
+    width: 100%;
+        text-align: center;
+    margin-top: 10px;
+}
+  .email-info {
+    float: none;
+        text-align: center;
+    width: 100%;
+}
+    .contact iframe {
+    min-height: 340px;
+    padding: 20px 0;
+}
+.contact-box {
+    padding: 40px 0;
+}
+
+/*........................AUDIO.HTML.......................*/
+
+#product p {
+   text-align: center;
+}
+
+#product span {
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+}
+    
+.visul-info {
+    padding: 0 40px;
+    text-align: center;
+}
+.visual img {
+    padding: 30px 0 30px 0;
+}
+.visul-info h3 {
+    text-align: center;
+}
+.cont-but a {
+    width: 20%;
+}
+.cont-but {
+    padding: 58px 0 100px 0;
+    text-align: center;
+}
+
+/*........................CAMERAS.HTML.......................*/
+
+table td {
+    padding: 8px 0 8px 30px;
+}
+    
+}
+
+
+/* All Mobile Widths */
+@media only screen and (max-width: 767px) {
+#tools-one h2 {
+ margin: 0 0 0 0 !important;
+}
+.logo {
+    width:40%;
+    padding: 10px 0px 0 10px;
+} 
+.logo img {
+    width: 120px;
+}    
+  .logo a{padding:10px 0 0 0;}  
+/*.compny-logo {
+       padding: 16px 0 0px 0;
+    float: none;
+        text-align: center;
+    margin-left: 40%;
+}*/
+    .compny-logo p{display: none;}
+.banner-img-text h2 {
+    font-size: 40px;
+    line-height: 42px;
+        padding-top: 100px;
+}
+.banner-img-text {
+    padding: 0 30px;
+    height: 350px;
+}
+    #tools-one .tools {
+    padding: 30px 0;
+}
+
+    .foo-menu{
+        margin-top: 20px;
+        text-align: center;
+    }
+    .social {
+    text-align: center;
+        padding: 20px 0;
+}
+    header {
+    /*height: 90px !important;*/
+    }
+
+    nav ul li {
+    display: inline-block;
+    line-height: 40px;
+        width: 100%;
+}
+         .cd-main-nav li a:hover{
+    display: block;
+    border-bottom: 1px solid #f4923b;
+}
+     .cd-main-nav li a.active {
+    display: block !important;
+   border-bottom: 1px solid #f4923b !important;
+    
+}
+
+ #tools-one i {
+    font-size: 80px;
+    padding: 20px 0 20px 0;
+}
+    #tools-one p {
+    font-size: 14px;
+    }
+    #tools-one a{margin-bottom: 20px;}
+    .camera{margin-top: 0;}
+    .download h2 {
+    font-size: 26px;
+    width: 100%;
+    }
+    #products .products {
+    padding: 15px 10px 0px;
+}
+    #productul li p{margin-top: 0;}
+    footer{
+        text-align: center;
+    display: block;
+    margin: 0 auto;
+    }
+    .hedside {
+    float: right;
+    width: 50%;
+   text-align: left;
+}
+    .cd-nav-trigger {
+    top: 36px;
+    }
+/*.compny-logo img {
+    margin-left: 1px;
+    margin-top: 1px;
+}*/
+/*........................ABOUT US.HTML.......................*/
+#about h3 {
+    font-size: 18px !important;
+    width: 100%;
+    text-align: left;
+    padding: 30px 0;
+}
+#about .about {
+    background: #fff;
+    padding: 38px 30px 120px;
+}
+#about p {
+    width: 100%;
+    font-size: 13px;
+    text-align: left;
+    margin: 0 auto;
+    display: block;
+}
+.about-info {
+    float: none;
+    width: 100%;
+}
+.about-img {
+    float: none;
+    width: 100%;
+    display: block;
+    margin-top: 10px;
+}
+
+
+/*........................AUDIO.HTML.......................*/
+
+#audio p {
+   text-align: center;
+}
+
+#audio span {
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+}
+    
+.visul-info {
+    padding: 0 40px;
+    text-align: center;
+}
+.visual img {
+    padding: 30px 0 30px 0;
+}
+.visul-info h3 {
+    text-align: center;
+}
+.cont-but a {
+    width: 20%;
+}
+.cont-but {
+    padding: 58px 0 100px 0;
+    text-align: center;
+}
+/*........................CAMERAS.HTML.......................*/
+
+table td {
+    padding: 8px 0 8px 5px; 
+    text-align: center;
+}
+#video .video {
+    padding: 0 20PX;
+}
+}
+
+/* Mobile Landscape Width to Tablet Portrait Width */
+@media only screen and (min-width: 480px) and (max-width: 769px) {
+    
+/*........................ABOUT US.HTML.......................*/
+#tools-one h2 {
+
+    margin: 0 0 0 0 !important;
+
+}    
+#about h3 {
+    font-size: 16px !important;
+    width: 100%;
+    text-align: left;
+    padding: 20px 0;
+}
+#about .about {
+    background: #fff;
+    padding: 30px 20px 100px;
+}
+#about p {
+    width: 100%;
+    font-size: 14px;
+   
+}
+
+#about h2 {
+    font-size: 30px;
+    padding-bottom: 20px !important;
+
+}
+.download a {
+
+    float: none;
+    margin-right: 0;
+}
+/*........................CONTACT US.HTML.......................*/
+#contact-msg .contact-msg {
+    background: #fff;
+    padding: 0 10px 80px;
+}
+    #contact .contact {
+    background: #fff;
+    padding: 50px 0 50px 0;
+}
+.map-icon{
+        text-align: center;
+        width: 100%;
+        float: none;
+    margin-top: 10px;
+}
+    
+ .map-info {
+   float:  none; 
+    width: 100%;
+    text-align: center;
+}
+ .map-info h3 {
+    line-height: 22px;
+    font-size: 16px;
+    padding: 10px 0 0 0;
+} 
+
+.mobile-icon {
+    margin-top: 10px;
+    float: none;
+    width: 100%;
+    text-align: center;
+}
+    
+ .mob-info {
+    float: none;
+    width: 100%;
+        text-align: center;
+    margin-top: 10px;
+}
+  .email-info {
+    float: none;
+        text-align: center;
+    width: 100%;
+}
+    .contact iframe {
+    min-height: 340px;
+    padding: 20px 0;
+}
+.contact-box {
+    padding: 40px 0;
+}
+  .textare-box {
+    float: right;
+    width: 100%;
+}  
+.text-box {
+    float: left;
+    width: 100%;
+}
+
+
+/*........................AUDIO.HTML.......................*/
+
+#audio p {
+   text-align: center;
+}
+
+#audio span {
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+}
+    
+.visul-info {
+    padding: 0 26px;
+    text-align: center;
+}
+.visual img {
+    padding: 30px 0 30px 0;
+}
+.visul-info h3 {
+    text-align: center;
+}
+.cont-but a {
+    width: 33%;
+}
+.cont-but {
+    padding: 58px 0 100px 0;
+    text-align: center;
+}
+
+/*........................CAMERAS.HTML.......................*/
+
+table td {
+    padding: 8px 0; 
+    text-align: center;
+    font-size: 13px;
+}
+#video .video {
+    padding: 0 10PX;
+}
+.video-camera {
+    min-height: 300px;
+    margin-top: 10px;
+}
+#video h2 {
+    font-size: 30px;
+
+    padding: 36px 0;
+
+}
+}
+
+/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+@media only screen and (max-width: 479px) {
+    .banner-img-text h2 {
+    font-size: 24px;
+    line-height: 30px;
+    padding-top: 70px;
+}
+    .banner-img-text {
+    padding: 0 13px;
+    height: 270px;
+}
+   /* .compny-logo {
+    margin-left: 46%;
+}*/
+    .cd-nav-trigger {
+    top: 33px;
+    }
+    #tools-one i {
+    font-size: 70px;
+    }
+    .download h2 {
+    font-size: 22px;
+    line-height: 30px;
+}
+    #products h2 {
+    text-transform: uppercase;
+    font-size: 24px;
+    text-align: center;
+    }
+    #productul li{padding-left: 0;}
+    #productul li span {
+    float: none;
+    min-width: 100%;
+    margin-right: 0px;
+    text-align: center;
+}
+
+/*.compny-logo img{
+    margin-left: 8px;
+    width: 30%;
+    margin-top: 10px;
+}*/
+
+#productul li p a {
+    margin: 10px 0 15px 0;
+    line-height: 20px;
+}
+#productul li:before {
+ display: none;
+}
+.download a {
+
+    float: none;
+    margin: 10px 0;
+}
+    #download .download {
+    background: #000;
+    padding: 15px 0;
+    }
+/*........................ABOUT US.HTML.......................*/
+    
+#about h3 {
+    font-size: 14px !important;
+    width: 100%;
+    text-align: left;
+    padding: 20px 0;
+}
+#about .about {
+    background: #fff;
+    padding: 30px 20px 100px;
+}
+#about p {
+    width: 100%;
+    font-size: 13px;
+    
+}
+#about img {
+   width: 100%;
+   
+}
+#about h2 {
+    font-size: 30px;
+    padding-bottom: 20px !important;
+
+}
+
+/*........................CONTACT US.HTML.......................*/
+#contact .contact {
+    background: #fff;
+    padding: 20px 0 30px 0;
+}
+#contact .contact {
+    background: #fff;
+    padding: 30px 0 40px 0;
+}
+.contact h2 {
+    font-size: 30px;
+}
+
+.map-icon{
+        text-align: center;
+        width: 100%;
+        float: none;
+    margin-top: 10px;
+}
+    
+ .map-info {
+   float:  none; 
+    width: 100%;
+    text-align: center;
+}
+ .map-info h3 {
+    line-height: 22px;
+    font-size: 16px;
+    padding: 10px 0 0 0;
+} 
+
+.mobile-icon {
+    margin-top: 10px;
+    float: none;
+    width: 100%;
+    text-align: center;
+}
+    
+ .mob-info {
+    float: none;
+    width: 100%;
+        text-align: center;
+    margin-top: 10px;
+}
+  .email-info {
+    float: none;
+        text-align: center;
+    width: 100%;
+}
+    .contact iframe {
+    min-height: 300px !important;
+    padding: 20px 0;
+}
+.contact-box {
+    padding: 40px 0;
+}
+  .textare-box {
+    float: right;
+    width: 100%;
+}  
+.text-box {
+    float: left;
+    width: 100%;
+}
+    .map-icon i {
+    font-size: 30px;
+
+    height: 60px;
+    width: 60px;
+
+    padding-top: 16px;
+}
+    
+.mobile-icon i        {
+    font-size: 30px;
+
+    height: 60px;
+    width: 60px;
+
+    padding-top: 16px;
+}
+    .contact-msg h3 {
+
+    font-size: 30px;
+
+}
+    .text-box input {
+
+    padding: 0 22px;
+    height: 50px;
+    font-size: 14px;
+
+}
+    .textare-box textarea {
+
+    padding: 10px 20px;
+    height: 160px;
+
+    font-size: 14px;
+}
+    #contact-msg .contact-msg {
+    padding: 0 10px 30px;
+}
+/*........................AUDIO.HTML.......................*/
+#product .product {
+    background: #fff;
+    padding: 0 10px;
+}
+#product p {
+   text-align: center;
+}
+
+#product span {
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+}
+ #product h2 {
+    font-size: 26px;
+    padding: 30px 0 10px;
+
+}
+  
+.visul-info {
+    padding: 0 40px;
+    text-align: center;
+}
+.visual img {
+    padding: 16px 0 16px 0;
+}
+.visul-info h3 {
+    text-align: center;
+}
+.cont-but a {
+    width: 50%;
+}
+.cont-but {
+    padding: 15px 0 30px 0;
+    text-align: center;
+}
+.model {
+    margin: 20px 0;
+}
+
+    /*........................CAMERAS.HTML.......................*/
+
+table td {
+    padding: 8px 0; 
+    text-align: center;
+    font-size: 13px;
+}
+#product .product {
+    padding: 0 10PX;
+}
+.video-camera {
+    min-height: 250px;
+    margin-top: 10px;
+}
+#product h4 {
+    font-size: 26px;
+
+    padding: 36px 0 0 0;
+
+}
+  #product p {
+
+    padding: 15px 0 0px 0;
+}  
+}
